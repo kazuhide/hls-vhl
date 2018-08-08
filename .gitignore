@@ -1,0 +1,10 @@
+/.idea/
+/.idea/vcs.xml
+*.babelrc
+*.editorconfig
+*.esdoc.json
+*.eslintrc.js
+/node_modules/
+/hls.js-0.10.1/
+package.json
+/
